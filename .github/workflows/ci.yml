@@ -202,7 +202,7 @@ jobs:
           # - trixie # Debian 13
           # - sid # Debian unstable
         TYPE:
-          - minimal
+          # - minimal
           - cli
           # - desktop
         include:
